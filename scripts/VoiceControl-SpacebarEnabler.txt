@@ -1,0 +1,8 @@
+local micInputScript = game.Players.iusebakoYT.PlayerScripts:FindFirstChild("MicInput")
+if micInputScript then
+    micInputScript:Destroy()
+end
+local DisableJump = game.Players.iusebakoYT.PlayerScripts:FindFirstChild("DisableJump")
+if DisableJump then
+    DisableJump:Destroy()
+end
