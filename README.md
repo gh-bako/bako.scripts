@@ -2,6 +2,7 @@
 roblox scripts i wrote for fun (and usually out of boredom)
 ---
 Voice Control, but you use spacebar instead of jumping
+
 loadstring:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/real-kwellercat/bako.scripts/main/scripts/VoiceControl-SpacebarEnabler.txt"))()
