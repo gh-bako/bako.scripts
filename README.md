@@ -7,4 +7,4 @@ loadstring:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/real-kwellercat/bako.scripts/main/scripts/VoiceControl-SpacebarEnabler.txt"))()
 ```
-This DELETES the Jumping by using your voice (MicInput) and the jump button disabler (DisableJump)
+This DELETES the Jumping by using your voice (MicInput) and the jump button disabler (DisableJump) - only works for me, will fix soon
