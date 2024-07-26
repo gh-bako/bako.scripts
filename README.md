@@ -1,7 +1,7 @@
 # bako.scripts
 roblox scripts i wrote for fun (and usually out of boredom)
 ---
-Voice Control, but you use spacebar instead of jumping
+Voice Control, but you use spacebar instead of jumping with your voice
 
 loadstring:
 ```lua
